@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alejandro Mendoza",
+      "empresa": "Soliciones",
+      "email": "alejandro@gmail.com",
+      "telefono": "315487794",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "Fredy Alejandro",
+      "empresa": "UIS",
+      "email": "ifredomendoza@gmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 7
+    },
+    {
+      "nombre": "Andrés",
+      "empresa": "MAINCRA",
+      "email": "maincraroberto@gmail.com",
+      "telefono": "3156470157",
+      "notas": "",
+      "id": 8
+    },
+    {
+      "nombre": "Maria Paula",
+      "empresa": "Iglesia Episcopal Jesus de Nazaret",
+      "email": "socialmedia@iglesiaorlando.com",
+      "telefono": "+573115359382",
+      "notas": "",
+      "id": 9
+    }
+  ]
+}
